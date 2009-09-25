@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Win32::OLE;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 BEGIN {
 	use Exporter;
@@ -56,7 +56,7 @@ __END__
 
 =head1 NAME
 
-SendEmail - a module for send emails [with Attachments] via Microsoft Outlook
+EmailSend - a module for send emails [with Attachments] via Microsoft Outlook
 
 =head1 SYNOPSIS
 
