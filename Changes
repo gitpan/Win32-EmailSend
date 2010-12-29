@@ -9,3 +9,6 @@ Revision history for Perl extension Win32::EmailSend.
 
 0.03  Fri Sep 25 18:59:04 2009
 	- bugfix: Doku
+
+0.04  Wed Dec 29 14:28:00 2010
+   - bugfix: Win32::OLE

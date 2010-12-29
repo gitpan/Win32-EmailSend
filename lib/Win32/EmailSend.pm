@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Win32::OLE;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 BEGIN {
 	use Exporter;
